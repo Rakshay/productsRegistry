@@ -1,0 +1,7 @@
+.new-item-form {
+  display: flex;
+}
+
+.new-item-form > input {
+  margin-right: 10px;
+}
